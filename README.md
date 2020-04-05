@@ -1,2 +1,5 @@
 # SwiftRegex
-http://alvinzhu.me/2020/03/28/regex-implementation.html
+
+一个简单的 Swift 正则表达式引擎实现。
+
+支持 **\*** **?** **|** 操作符。
